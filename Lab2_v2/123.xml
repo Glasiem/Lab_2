@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="" ?>
+<articles type="root">
+    <article id="1">
+        <title>Клікбейт</title>
+        <annotation>Стаття про щось цікаве</annotation>
+        <author>Я</author>
+        <location>Десь там</location>
+        <review>Ваня, 12 рочків: Ок</review>
+    </article>
+    <article id="2">
+        <title>Клікбейт 2</title>
+        <annotation>Стаття про щось нецікаве</annotation>
+        <author>Не я</author>
+        <location>Десь тут</location>
+        <review>Ваня, 12 рочків: Не ок</review>
+    </article>
+</articles>
